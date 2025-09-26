@@ -1,6 +1,6 @@
 # ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
 ## Beer Master
-- Latest build status with azerothcore: [![core-build](https://github.com/freekode/mod-beer-master/actions/workflows/core-build.yml/badge.svg)](https://github.com/freekode/mod-beer-master/actions/workflows/core-build.yml)
+- Latest build status with azerothcore: [![core-build](https://github.com/freekode/mod-joes-tavern/actions/workflows/core-build.yml/badge.svg)](https://github.com/freekode/mod-joes-tavern/actions/workflows/core-build.yml)
 
 
 This is a module for [AzerothCore](http://www.azerothcore.org) that adds new beveranges which have different side effects.
