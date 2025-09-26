@@ -1,0 +1,4 @@
+[worldserver]
+
+BeerMaster.Enable = 1
+BeerMaster.Announce = 1
